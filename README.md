@@ -1,4 +1,4 @@
-HI i'm Tshireletso Klaas Selemela.
+HI i'm Tshireletso Selemela AKA Stewiecancode_sa.
 Graduate in Computer Science and Information Technology
 Welcome to my GitHub profile! I am a recent graduate with a NQF L4 in Computer Science and Information Technology. I am passionate about software development and application development, and I am excited to share my projects and skills with you.
 
